@@ -1,0 +1,7 @@
+motorControl.c:31:6:motorControlInit	8	static
+motorControl.c:87:6:setDesiredMotorPosition	0	static
+motorControl.c:99:6:setMotorSpeed	0	static
+motorControl.c:54:6:motorControlIterate1KHz	16	static
+motorControl.c:93:6:setMotorPositionControlOff	8	static
+motorControl.c:123:6:setMotorSpeedDelta	8	static
+motorControl.c:127:6:getMotorSpeed	0	static

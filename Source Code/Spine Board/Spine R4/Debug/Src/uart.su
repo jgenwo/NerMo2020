@@ -1,0 +1,17 @@
+uart.c:54:6:uartBusyWaitForTXDone	16	static,ignoring_inline_asm
+uart.c:66:13:uartSendChar	0	static
+uart.c:73:6:uartSendString	8	static
+uart.c:78:13:uartLSendChar	0	static
+uart.c:82:6:uartLSendString	8	static
+uart.c:87:13:uartRSendChar	0	static
+uart.c:91:6:uartRSendString	8	static
+uart.c:96:13:uartSSendChar	0	static
+uart.c:100:6:uartSSendString	8	static
+uart.c:106:13:uartSendCharDirect	0	static,ignoring_inline_asm
+uart.c:111:6:uartSendStringDirect	8	static
+uart.c:117:6:uartDiscardAllIncomingData	0	static
+uart.c:139:6:uartSendHexLong	16	static
+uart.c:150:6:uartSendHexShort	16	static
+uart.c:157:6:uartSendHexByte	16	static
+uart.c:170:6:uartShowHelp	8	static
+uart.c:196:6:uartParseCommand	4120	static,ignoring_inline_asm

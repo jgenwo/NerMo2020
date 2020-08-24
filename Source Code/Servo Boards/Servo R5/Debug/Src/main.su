@@ -1,0 +1,11 @@
+main.c:103:6:sleepMS.part.0	0	static,ignoring_inline_asm
+main.c:103:6:sleepMS	8	static
+main.c:116:6:identifyServoID	16	static
+main.c:153:6:DUMMY_old_ServoID	48	static,ignoring_inline_asm
+main.c:226:6:enterBootLoader	56	static,ignoring_inline_asm
+main.c:275:6:stopAndEnterBootLoader	8	static
+main.c:296:13:setLED	0	static
+main.c:312:13:setLEDBlink	0	static
+main.c:515:6:SystemClock_Config	112	static
+main.c:326:5:main	96	static
+main.c:974:6:Error_Handler	0	static

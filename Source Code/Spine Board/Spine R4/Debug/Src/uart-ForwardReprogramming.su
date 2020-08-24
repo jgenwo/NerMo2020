@@ -1,0 +1,5 @@
+core_cm7.h:2147:34:__NVIC_SystemReset	0	static,ignoring_inline_asm
+uart-ForwardReprogramming.c:14:6:U3SetToReprogConfiguration	40	static
+uart-ForwardReprogramming.c:39:6:uartForwardReprogramServoChainLeft	72	static,ignoring_inline_asm
+uart-ForwardReprogramming.c:155:6:uartForwardReprogramServoChainRight	72	static,ignoring_inline_asm
+uart-ForwardReprogramming.c:259:6:uartForwardReprogramServoChainSpine	72	static,ignoring_inline_asm

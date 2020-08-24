@@ -1,0 +1,7 @@
+main.c:84:6:setLEDcounter	0	static
+main.c:95:6:sleepUS	0	static,ignoring_inline_asm
+main.c:104:6:sleepMS	0	static,ignoring_inline_asm
+main.c:472:6:SystemClock_Config	224	static
+main.c:998:6:enterBootLoader	40	static,ignoring_inline_asm
+main.c:119:5:main	128	static,ignoring_inline_asm
+main.c:1041:6:Error_Handler	0	static
